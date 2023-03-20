@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @vmcc7551
-- 👀 I’m interested in doing nothing.
-- 🌱 I’m currently learning Design Computing
-- 💞️ I’m looking to collaborate on doing nothing with the people I love.
+- 👋 Hi, I’m Veronikah.
+- 👀 I’m interested in drawing, music and having fun with my family.
+- 🌱 I’m currently learning Design Computing.
+- 💞️ I’m looking to collaborate with the people I love.
 - 📫 How to reach me with your arms, perhaps your legs if your arms are occupied.
 
 <!---
